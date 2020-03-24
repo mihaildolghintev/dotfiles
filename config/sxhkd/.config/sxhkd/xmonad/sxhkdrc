@@ -1,0 +1,17 @@
+# reload congiguration
+super + Escape
+	pkill -USR1 -x sxhkd
+
+super + shift + Return
+  xst
+
+# launch apps with super + <shift> keypad
+super + KP_Left
+    alacritty -e nnn
+
+super + shift + KP_Left
+	alacritty -e lf
+
+super + KP_Home
+	alacritty -e tmux
+

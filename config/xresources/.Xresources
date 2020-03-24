@@ -1,0 +1,53 @@
+!! st
+st.termname: xterm-256color
+st.borderpx:          20
+st.alpha: 1
+
+*.foreground:           #a19782
+*.background:           #0b0806
+*.cursorColor:          #844d2c
+*.underlineColor:       #c1ab83
+
+! black
+*.color0:               #0b0806
+*.color8:               #2f2b2a
+
+! red
+*.color1:               #844d2c
+*.color9:               #a64848
+
+! green
+*.color2:               #57553a
+*.color10:              #897f5a
+
+! yellow
+*.color3:               #a17c38
+*.color11:              #c8b38d
+
+! blue
+*.color4:               #41434f
+*.color12:              #526274
+
+! magenta
+*.color5:               #6b4444
+*.color13:              #755c47
+
+! cyan
+*.color6:               #59664c
+*.color14:              #718062
+
+! white
+*.color7:               #a19782
+*.color15:              #c1ab83
+
+
+Xcursor.theme: Adwaita
+
+!Fonts
+Xft.dpi: 96
+Xft.antialias: true
+Xft.hinting: true
+Xft.rgba: rgb
+Xft.autohint: false
+Xft.hintstyle: hintslight
+Xft.lcdfilter: lcddefault
